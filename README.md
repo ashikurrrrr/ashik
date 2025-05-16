@@ -1,6 +1,18 @@
-### 👋 Hi, I’m Ashik!
-I’m a passionate learner and developer from Bangladesh 🇧🇩  
-🔭 I’m currently working on improving my skills in **Web Development** and **Git**  
-🌱 I’m learning React, Node.js, and MongoDB  
-📫 How to reach me: iamashikurr@gmail.com  
-⚡ Fun fact: I love debugging more than coding 😅  
+This is my personal website built using HTML, CSS, and JavaScript. It showcases my background, skills, education, and contact information.
+
+## 🔧 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## 📌 Features
+- Responsive layout
+- Smooth scrolling
+- Contact form
+- Service and skill sections
+
+## 🚀 Live Demo
+👉 [Visit Website](https://ashikurrrrr.github.io/ashik/)
+
+## 📬 Contact Me
+Feel free to reach out at: iamashikurr@gmail.com
